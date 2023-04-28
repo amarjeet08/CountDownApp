@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: orangered;
+}
+div {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  height: 100px;
+  width: 1000px;
+  font-size: 120px;
+  font-weight: 900;
+  color: white;
+}
